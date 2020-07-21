@@ -1,0 +1,16 @@
+Package: bentyeh
+Type: Package
+Title: Personal Scripts
+Version: 0.1.0
+Author: Benjamin Yeh
+Maintainer: Benjamin Yeh <bentyeh@users.noreply.github.com>
+Description: Helpful functions and utilities for R
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+  parallel,
+  Rcpp
+LinkingTo:
+  Rcpp
+RoxygenNote: 7.1.1
